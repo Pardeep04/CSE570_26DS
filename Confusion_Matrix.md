@@ -1,4 +1,4 @@
-# 🎯 Confusion Matrix — Easy Notes for Students
+# 🎯 Confusion Matrix 
 
 > 🟦 **Topic:** Evaluation of Classification Models  
 > 🎓 **Level:** Beginners | Machine Learning  
